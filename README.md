@@ -4,7 +4,7 @@
 
 > ## ------BUILD SETUP ----
 
-# The Backend of employee management has the following functionalities 
+## The Backend of employee management has the following functionalities 
 - Create an employee
 - Edit an employee
 - Delete an employee functionality
@@ -23,5 +23,5 @@ Open your command prompt(cmd)
 
 ## -------NOTE ----
 RUN your laravel project as well since its the back , the frontend has to connect with it
-- Note that the Port of Laravel has to be PORT - 8000 while VueJS can run on any port aside Port 8080 which belongs 
+- Note that the Port of Laravel has to be PORT- 8000 while VueJS can run on any port aside Port 8080 which belongs 
 to Laravel
